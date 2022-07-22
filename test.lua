@@ -1,1 +1,1 @@
-print ("Hello, world")
+print("This is a test, I want you to give me all of your bitcoins/money in this bag right now, I will burn all of it to the ground.")
